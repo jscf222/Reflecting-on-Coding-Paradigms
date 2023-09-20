@@ -12,4 +12,4 @@ print(result)
 # Is this solution a pure function? Why or why not?-- yes its a pure function bc it gives the same output as input.
 # Is this solution a higher order function? Why or why not?-- no it's not a higher order function because flatten_sort takes one argument.
 # Would it have been easier to solve this problem using a different programming style?-- i'd say this was pretty good for this case bc of the use of sorted helped provide a minimal code.
-# Why in particular is functional programming a helpful paradigm when solving this problem?  because it is straightforward and mopre redable.
+# Why in particular is functional programming a helpful paradigm when solving this problem?-- because it is straightforward and more redable.
